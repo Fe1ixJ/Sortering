@@ -1,0 +1,11 @@
+C:\Users\feljoh041\source\repos\Övning 12.1 Sortering\Övning 12.1 Sortering\obj\Debug\Övning 12.1 Sortering.csproj.AssemblyReference.cache
+C:\Users\feljoh041\source\repos\Övning 12.1 Sortering\Övning 12.1 Sortering\obj\Debug\Övning 12.1 Sortering.csproj.SuggestedBindingRedirects.cache
+C:\Users\feljoh041\source\repos\Övning 12.1 Sortering\Övning 12.1 Sortering\obj\Debug\Övning_12._1_Sortering.Form1.resources
+C:\Users\feljoh041\source\repos\Övning 12.1 Sortering\Övning 12.1 Sortering\obj\Debug\Övning_12._1_Sortering.Properties.Resources.resources
+C:\Users\feljoh041\source\repos\Övning 12.1 Sortering\Övning 12.1 Sortering\obj\Debug\Övning 12.1 Sortering.csproj.GenerateResource.cache
+C:\Users\feljoh041\source\repos\Övning 12.1 Sortering\Övning 12.1 Sortering\obj\Debug\Övning 12.1 Sortering.csproj.CoreCompileInputs.cache
+C:\Users\feljoh041\source\repos\Övning 12.1 Sortering\Övning 12.1 Sortering\bin\Debug\Övning 12.1 Sortering.exe.config
+C:\Users\feljoh041\source\repos\Övning 12.1 Sortering\Övning 12.1 Sortering\bin\Debug\Övning 12.1 Sortering.exe
+C:\Users\feljoh041\source\repos\Övning 12.1 Sortering\Övning 12.1 Sortering\bin\Debug\Övning 12.1 Sortering.pdb
+C:\Users\feljoh041\source\repos\Övning 12.1 Sortering\Övning 12.1 Sortering\obj\Debug\Övning 12.1 Sortering.exe
+C:\Users\feljoh041\source\repos\Övning 12.1 Sortering\Övning 12.1 Sortering\obj\Debug\Övning 12.1 Sortering.pdb

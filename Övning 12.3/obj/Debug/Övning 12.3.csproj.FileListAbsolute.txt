@@ -1,0 +1,11 @@
+C:\Users\feljoh041\source\repos\Övning 12.3\Övning 12.3\bin\Debug\Övning 12.3.exe.config
+C:\Users\feljoh041\source\repos\Övning 12.3\Övning 12.3\bin\Debug\Övning 12.3.exe
+C:\Users\feljoh041\source\repos\Övning 12.3\Övning 12.3\bin\Debug\Övning 12.3.pdb
+C:\Users\feljoh041\source\repos\Övning 12.3\Övning 12.3\obj\Debug\Övning 12.3.csproj.AssemblyReference.cache
+C:\Users\feljoh041\source\repos\Övning 12.3\Övning 12.3\obj\Debug\Övning 12.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\feljoh041\source\repos\Övning 12.3\Övning 12.3\obj\Debug\Övning_12._3.Form1.resources
+C:\Users\feljoh041\source\repos\Övning 12.3\Övning 12.3\obj\Debug\Övning_12._3.Properties.Resources.resources
+C:\Users\feljoh041\source\repos\Övning 12.3\Övning 12.3\obj\Debug\Övning 12.3.csproj.GenerateResource.cache
+C:\Users\feljoh041\source\repos\Övning 12.3\Övning 12.3\obj\Debug\Övning 12.3.csproj.CoreCompileInputs.cache
+C:\Users\feljoh041\source\repos\Övning 12.3\Övning 12.3\obj\Debug\Övning 12.3.exe
+C:\Users\feljoh041\source\repos\Övning 12.3\Övning 12.3\obj\Debug\Övning 12.3.pdb

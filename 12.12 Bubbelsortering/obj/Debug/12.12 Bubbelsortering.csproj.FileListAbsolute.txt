@@ -1,0 +1,10 @@
+C:\Users\feljoh041\source\repos\12.12 Bubbelsortering\12.12 Bubbelsortering\bin\Debug\12.12 Bubbelsortering.exe.config
+C:\Users\feljoh041\source\repos\12.12 Bubbelsortering\12.12 Bubbelsortering\bin\Debug\12.12 Bubbelsortering.exe
+C:\Users\feljoh041\source\repos\12.12 Bubbelsortering\12.12 Bubbelsortering\bin\Debug\12.12 Bubbelsortering.pdb
+C:\Users\feljoh041\source\repos\12.12 Bubbelsortering\12.12 Bubbelsortering\obj\Debug\12.12 Bubbelsortering.csproj.AssemblyReference.cache
+C:\Users\feljoh041\source\repos\12.12 Bubbelsortering\12.12 Bubbelsortering\obj\Debug\_12._12_Bubbelsortering.Form1.resources
+C:\Users\feljoh041\source\repos\12.12 Bubbelsortering\12.12 Bubbelsortering\obj\Debug\_12._12_Bubbelsortering.Properties.Resources.resources
+C:\Users\feljoh041\source\repos\12.12 Bubbelsortering\12.12 Bubbelsortering\obj\Debug\12.12 Bubbelsortering.csproj.GenerateResource.cache
+C:\Users\feljoh041\source\repos\12.12 Bubbelsortering\12.12 Bubbelsortering\obj\Debug\12.12 Bubbelsortering.csproj.CoreCompileInputs.cache
+C:\Users\feljoh041\source\repos\12.12 Bubbelsortering\12.12 Bubbelsortering\obj\Debug\12.12 Bubbelsortering.exe
+C:\Users\feljoh041\source\repos\12.12 Bubbelsortering\12.12 Bubbelsortering\obj\Debug\12.12 Bubbelsortering.pdb
